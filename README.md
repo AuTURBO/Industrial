@@ -13,7 +13,7 @@ gripper MG946 -> opencr pwm 11 pin
 # init_servo_motor Folder
 motor test code
 
-<img src="http://emanual.robotis.com/assets/images/parts/controller/opencr10/exam_pwm_01.png">  
+<img src="http://emanual.robotis.com/assets/images/parts/controller/opencr10/exam_pwm_01.png" width="50%" height="50%">  
 
 
 # Test  
