@@ -5,7 +5,7 @@ roslaunch open_manipulator_moveit open_manipulator_demo.launch use_gazebo:=false
 
 # turtlebot3_with_pick_manipulator_core_hybrid  
 It use OpenCR Board.  
-joint1 XL430-W250-T(turtle bot3 burter wheel motor)  -> opencr TTL pin  
+joint1 XL430-W250-T(turtle bot3 burger wheel motor)  -> opencr TTL pin  
 joint2 MG946 -> opencr pwm 3 pin  
 joint3 MG946 -> opencr pwm 5 pin  
 joint4 MG946 -> opencr pwm 6 pin  
